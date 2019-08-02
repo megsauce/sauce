@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	font-family: helvetica, arial, sands-serif;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 30px;	
 }
 
@@ -37,6 +37,7 @@ main{
 main img{
 	max-width: 100%;
 	padding-top: 20px;
+	padding-bottom: 0;
 }
 
 h2{
@@ -77,6 +78,7 @@ footer a:hover{
 }
 
 p.caption{
+	font-size: 15px;
 	color: green;
 	font-style: italic;
 	margin-top: 0;
