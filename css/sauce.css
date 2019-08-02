@@ -1,10 +1,85 @@
 body{
 	margin: 0px;
 	font-family: helvetica, arial, sands-serif;
-	font-size: 18px
+	font-size: 18px;
 	line-height: 30px;	
 }
 
 header{
 	background-color: orange;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 60px;
+
+}
+h1,h2{
+	font-family: 'Kalam', cursive;
+}
+
+header h1{
+	color: black;
+	font-size: 60px;
+}
+
+header img{
+	border-radius: 10px;
+	width:	230px;
+	border: 2px solid black;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+	padding-top: 20px;
+}
+
+h2{
+	font-size: 35px;
+	color:	red;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #e70c19;
+}
+
+a:hover{	
+	color: white;
+	background: #B22222;
+}
+
+footer{
+	background-color: orange;
+	text-align: center;
+	color: white;
+	padding: 50px;
+	font-size: 18px;
+}
+
+footer p{
+	margin: 5px;
+}
+
+footer a{
+	color: black;
+
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: green;
+	font-style: italic;
+	margin-top: 0;
+	text-align: center;
+
 }
