@@ -8,11 +8,11 @@ body{
 header{
 	background-color: orange;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 60px;
+	padding-bottom: 40px;
 	font-size: 60px;
-
 }
+
 h1,h2{
 	font-family: 'Kalam', cursive;
 }
@@ -31,13 +31,12 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 15px;
 }
 
 main img{
 	max-width: 100%;
 	padding-top: 20px;
-	padding-bottom: 0;
 }
 
 h2{
